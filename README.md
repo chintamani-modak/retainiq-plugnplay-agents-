@@ -1,5 +1,3 @@
-# retainiq-plugnplay-agents
-
 # RetainIQ Plug-and-Play Agents
 
 This repository contains the full source code, prompts, and test files for the **RetainIQ Plug-and-Play Agent System** — an AI-powered onboarding engine designed to help SMBs activate faster with intelligent data upload, validation, and insight generation.
